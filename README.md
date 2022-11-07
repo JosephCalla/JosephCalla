@@ -1,5 +1,5 @@
 
-[![MasterHead](https://developer.apple.com/news/images/og/apple-developer-og-twitter.png)]()
+[![MasterHead](https://s3.amazonaws.com/SSL_Assets/apple/iBooks_DIS_Banner_Master_15n.png)]()
 <h1 align="center">Hi 👋, I'm Joseph Calla</h1>
 <h3 align="center">Iʼm a passionate iOS Developer. I'm from Perú</h3>
 
