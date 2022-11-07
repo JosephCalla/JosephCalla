@@ -3,7 +3,12 @@
 <h1 align="center">Hi 👋, I'm Joseph Calla</h1>
 <h3 align="center">Iʼm a passionate iOS Developer. I'm from Perú</h3>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+
+<p align="left">
+<a href="" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
+<a href="" target="blank"><img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/></a>
+  </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephcalla&label=Profile%20views&color=0e75b6&style=flat" alt="josephcalla" /> </p>
 
