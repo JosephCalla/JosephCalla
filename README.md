@@ -1,5 +1,5 @@
 
-[![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/01/IOS.png)]()
+<!-- [![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/01/IOS.png)]() -->
 <h1 align="center">Hi 👋, I'm Joseph Calla</h1>
 <h3 align="center">Iʼm a passionate iOS Developer. I'm from Perú</h3>
 
