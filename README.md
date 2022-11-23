@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 👯 I’m looking to collaborate on [iOS Projects on Github or others](github.com)
+- 👯 I’m looking to collaborate on [iOS Projects on Github or others](github.com/JosephCalla?tab=repositories)
 
 - 🤝 I’m looking for help with [Instagram-SwiftUI](https://github.com/JosephCalla/Instagram-SwiftUI)
 
