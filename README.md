@@ -13,13 +13,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephcalla&label=Profile%20views&color=0e75b6&style=flat" alt="josephcalla" /> </p>
 
-- 🔭 I’m currently working on [Instagram-SwiftUI](https://github.com/JosephCalla/Instagram-SwiftUI)
+- 🔭 I’m currently working on [Design Pattern iOS Swift](https://github.com/JosephCalla/Design-Patterns-Swift)
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **SwiftUI & Combine**
 
 - 👯 I’m looking to collaborate on [iOS Projects on Github or others](github.com/JosephCalla?tab=repositories)
 
-- 🤝 I’m looking for help with [Instagram-SwiftUI](https://github.com/JosephCalla/Instagram-SwiftUI)
+- 🤝 I’m looking for help with [Design-Pattern-iOS-Swift](https://github.com/JosephCalla/Design-Patterns-Swift)
 
 - 💬 Ask me about **Swift, Objective-C, iOS**
 
