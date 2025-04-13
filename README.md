@@ -13,9 +13,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephcalla&label=Profile%20views&color=0e75b6&style=flat" alt="josephcalla" /> </p>
 
-- 🔭 I’m currently working on [Design Pattern iOS Swift](https://github.com/JosephCalla/Design-Patterns-Swift)
+- 🔭 I’m currently working on [New App](https://github.com/JosephCalla/Design-Patterns-Swift)
 
-- 🌱 I’m currently learning **SwiftUI & Combine**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on [iOS Projects on Github or others](github.com/JosephCalla?tab=repositories)
 
